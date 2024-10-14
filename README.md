@@ -1,6 +1,6 @@
 <h1 align="center">IllumiNeRF Benchmark Results</h1>
 
-**IllumiNeRF: 3D Relighting without Inverse Rendering, NeurIPS 2024.**<br>
+**IllumiNeRF: 3D Relighting without Inverse Rendering. NeurIPS 2024.**<br>
 [Xiaoming Zhao](https://xiaoming-zhao.com/), [Pratul P. Srinivasan](https://pratulsrinivasan.github.io/), [Dor Verbin](https://dorverbin.github.io/), [Keunhong Park](https://keunhong.com/), [Ricardo Martin-Brualla](https://ricardomartinbrualla.com/), and [Philipp Henzler](https://henzler.github.io/). 
 
 ### [Project Page](https://illuminerf.github.io/) | [Paper](https://arxiv.org/abs/2406.06527)
