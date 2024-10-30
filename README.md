@@ -1,6 +1,6 @@
 <h1 align="center">IllumiNeRF Benchmark Results</h1>
 
-**IllumiNeRF: 3D Relighting without Inverse Rendering. NeurIPS 2024.**<br>
+**IllumiNeRF: 3D Relighting Without Inverse Rendering. NeurIPS 2024.**<br>
 [Xiaoming Zhao](https://xiaoming-zhao.com/), [Pratul P. Srinivasan](https://pratulsrinivasan.github.io/), [Dor Verbin](https://dorverbin.github.io/), [Keunhong Park](https://keunhong.com/), [Ricardo Martin-Brualla](https://ricardomartinbrualla.com/), and [Philipp Henzler](https://henzler.github.io/). 
 
 ### [Project Page](https://illuminerf.github.io/) | [Paper](https://arxiv.org/abs/2406.06527)
@@ -162,11 +162,11 @@ The quantitative results will be saved in `${ILLUMINERF_RES_ROOT}/data/illuminer
 
 
 ## Citation
->Xiaoming Zhao, Pratul P. Srinivasan, Dor Verbin, Keunhong Park, Ricardo Martin Brualla, and Philipp Henzler. IllumiNeRF: 3D Relighting without Inverse Rendering. NeurIPS 2024.
+>Xiaoming Zhao, Pratul P. Srinivasan, Dor Verbin, Keunhong Park, Ricardo Martin Brualla, and Philipp Henzler. IllumiNeRF: 3D Relighting Without Inverse Rendering. NeurIPS 2024.
 ```
 @inproceedings{zhao2024illuminerf,
     author    = {Xiaoming Zhao and Pratul P. Srinivasan and Dor Verbin and Keunhong Park and Ricardo Martin Brualla and Philipp Henzler},
-    title     = {{IllumiNeRF: 3D Relighting without Inverse Rendering}},
+    title     = {{IllumiNeRF: 3D Relighting Without Inverse Rendering}},
     booktitle = {NeruIPS},
     year      = {2024},
 }
