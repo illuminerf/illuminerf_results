@@ -167,7 +167,7 @@ The quantitative results will be saved in `${ILLUMINERF_RES_ROOT}/data/illuminer
 @inproceedings{zhao2024illuminerf,
     author    = {Xiaoming Zhao and Pratul P. Srinivasan and Dor Verbin and Keunhong Park and Ricardo Martin Brualla and Philipp Henzler},
     title     = {{IllumiNeRF: 3D Relighting Without Inverse Rendering}},
-    booktitle = {NeruIPS},
+    booktitle = {NeurIPS},
     year      = {2024},
 }
 ```
